@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===================== HERO BANNER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Emandi%20Venkata%20Kameswararao&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%204%2B%20Years%20of%20Experience&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Emandi%20Venkata%20Kameswararao&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=UI%20Developer%20%7C%20React.js%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20Node.js%20%C2%B7%20GCP&descAlignY=56&descSize=16&animation=fadeIn" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;MERN+%2F+Next.js+%2F+TypeScript+Developer;Turning+Ideas+Into+Clean%2C+Fast+Products;Open+to+Full-Time+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=4%2B+Years+Building+Scalable+React+Applications;30%25%2B+UI+Performance+Gains+%7C+35%25+Fewer+Defects;Google+Certified+Associate+Cloud+Engineer;AI-Augmented+Development+with+Claude+%26+Copilot" />
 
 </div>
 
@@ -29,14 +29,15 @@
 <!-- ===================== ABOUT ME ===================== -->
 ## 📍 About Me
 
-<img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 
-- 🚀 **Full Stack Web Developer** with **4+ years** of experience designing and building production-grade web applications.
-- 🛠️ Specialized in **React, Next.js, Node.js, Express.js**, and **MySQL**, with strong fundamentals in **JavaScript/TypeScript**.
-- 🎨 Passionate about clean UI, scalable architecture, and performance-driven engineering.
-- 🌱 Currently deepening my expertise in **AI, System Design, Docker, AWS**, and **DevOps** practices.
-- 🤝 Open to collaborating on impactful **open-source** and **freelance** projects.
-- 📫 Based in **India** — available for remote & on-site opportunities.
+- 🚀 **UI Developer** with **4+ years** of experience designing and shipping scalable, accessible, and responsive web applications.
+- ⚛️ Expert in **React.js, TypeScript, Next.js, and Node.js**, with a track record of **30%+ UI performance gains**, **35% fewer production defects**, and **25% faster feature delivery**.
+- ☁️ **Google Certified Associate Cloud Engineer** — hands-on with GCP, Docker, Kubernetes, Jenkins, OpenShift, and CI/CD pipelines.
+- 🧪 Strong testing discipline — **85%+ test coverage** using Jest and React Testing Library.
+- 🤖 Experienced in **AI-augmented development** — GitHub Copilot, Google Gemini, and the **Anthropic Claude API / MCP**.
+- 🏢 Currently a **Software Engineer – UI Developer at CGI**, Hyderabad, India.
+- 📫 Open to **On-Site (Hyderabad), Hybrid, Remote**, and relocation opportunities — available immediately.
 
 <br clear="right"/>
 
@@ -47,21 +48,21 @@
 
 <div align="center">
 
-**Languages & Markup**
+**Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
 
-**Frameworks & Libraries**
+**Backend & APIs**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,graphql,mysql" />
 
-**Backend & Database**
+**Cloud, DevOps & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,jenkins,git,github,vscode,postman,linux" />
 
-**Tools & Platforms**
+**Testing & Monitoring**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman" />
+<img src="https://skillicons.dev/icons?i=jest,cypress,grafana" />
 
 </div>
 
@@ -97,6 +98,46 @@
 
 ---
 
+<!-- ===================== EXPERIENCE ===================== -->
+## 💼 Experience Highlights
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+**Software Engineer – UI Developer** · CGI · *Oct 2024 – Present* · Hyderabad, India
+- Architected scalable React.js frontend with code splitting & lazy loading — **20% faster page loads**, **30%+ UI performance gain**
+- Built **12+ custom React Hooks** (`useDebounce`, `useFetch`, `useFormValidation`), cutting code duplication by 30%
+- Achieved **85%+ test coverage** (Jest, RTL); prevented **10+ critical production incidents**
+- Integrated **Jenkins + OpenShift CI/CD** with **99.9% uptime** and zero-downtime deployments
+- Enforced **WCAG 2.1 accessibility** and eliminated security vulnerabilities (XSS/CSRF, JWT, CSP)
+- Accelerated debugging by **40%** using GitHub Copilot & Google Gemini
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**Associate Software Engineer – UI Developer** · CGI · *Jun 2022 – Sep 2024* · Hyderabad, India
+- Delivered **15+ production UI components**, contributing to **30% performance improvement** across 3 modules
+- Reduced **production defects by 35%** through systematic testing (Jest, RTL)
+- Managed bi-weekly **Jenkins/OpenShift** releases on a consistent 2-week Agile cadence
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**Project Engineer Intern** · Wipro · *Mar 2022 – May 2022*
+- Built a **full-stack e-commerce platform solo**: React.js, Flask/Python, MySQL, JWT auth & RBAC
+- Delivered **12+ REST API endpoints** with validation and error handling
+
+</td>
+</tr>
+</table>
+
+---
+
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
@@ -106,23 +147,10 @@
 <tr>
 <td width="33%" valign="top">
 
-### 🛒 Project One
-Full-featured e-commerce platform with cart, auth, and payment integration.
+### 🛒 E-Commerce Platform
+Full-stack e-commerce app built solo — React.js frontend, Flask/Python backend, MySQL, JWT auth & role-based access control.
 
-**Tech:** React · Node.js · Express · MySQL
-
-<p>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=vercel&logoColor=white" /></a>
-</p>
-
-</td>
-<td width="33%" valign="top">
-
-### 📊 Project Two
-Real-time analytics dashboard with data visualization and role-based access.
-
-**Tech:** Next.js · TypeScript · Tailwind CSS
+**Tech:** React · Flask · MySQL · JWT · CSS Grid
 
 <p>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
@@ -132,21 +160,34 @@ Real-time analytics dashboard with data visualization and role-based access.
 </td>
 <td width="33%" valign="top">
 
-### 📝 Project Three
-Collaborative task management app with real-time updates and notifications.
+### ⚡ Reusable Hooks Library
+Collection of 12+ custom React Hooks (`useDebounce`, `useFetch`, `useFormValidation`) reducing code duplication across teams.
 
-**Tech:** React · Node.js · Express · MySQL
+**Tech:** React · TypeScript · Jest
 
 <p>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=vercel&logoColor=white" /></a>
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+### 💼 Personal Portfolio
+Responsive personal portfolio showcasing projects, experience, and skills — deployed on Netlify.
+
+**Tech:** React · Next.js · Tailwind CSS
+
+<p>
+<a href="https://github.com/VenkataKameswararaoEmandi/my-resume"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://venkatakameswararaoemandi-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
 
 </td>
 </tr>
 </table>
 
-<sub>📌 Replace the placeholder links above with your actual repository and live demo URLs.</sub>
+<sub>📌 Replace the E-Commerce & Hooks Library placeholder links with your actual repository URLs.</sub>
 
 </div>
 
@@ -167,8 +208,8 @@ Collaborative task management app with real-time updates and notifications.
 
 ---
 
-<!-- ===================== ACHIEVEMENTS ===================== -->
-## 🏆 Achievement Badges
+<!-- ===================== ACHIEVEMENTS & CERTIFICATIONS ===================== -->
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
@@ -176,9 +217,35 @@ Collaborative task management app with real-time updates and notifications.
 
 <br/>
 
-<img src="https://img.shields.io/badge/4%2B%20Years-Experience-6366F1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20to-Work-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/30%25%2B-UI%20Performance%20Gain-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/35%25-Fewer%20Defects-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/25%25-Faster%20Delivery-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/85%25%2B-Test%20Coverage-F59E0B?style=for-the-badge" />
+
+<br/><br/>
+
+🎓 **Certifications**
+
+<img src="https://img.shields.io/badge/Associate%20Cloud%20Engineer-Google-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Professional%20ML%20Engineer-Google-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude%20API%20%26%20MCP-Anthropic-D97757?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Claude%20on%20Bedrock%20%26%20Vertex%20AI-Anthropic-D97757?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-Microsoft%20%26%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/Frontend%20Developer%20(React)-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<img src="https://img.shields.io/badge/Agile%20Software%20Development-CGI-6366F1?style=for-the-badge" />
+
+</div>
+
+---
+
+<!-- ===================== EDUCATION ===================== -->
+## 🎓 Education
+
+<div align="center">
+
+**B.Tech – Electronics & Communication Engineering**
+<br/>
+Hindustan Institute of Technology & Science, Chennai · 2022 · **CGPA: 9.3/10.0**
 
 </div>
 
