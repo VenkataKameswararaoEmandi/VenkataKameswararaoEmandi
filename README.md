@@ -272,15 +272,23 @@ Responsive personal portfolio showcasing projects, experience, and skills — de
 
 <br/><br/>
 
-🎓 **Certifications**
+🎓 **Certifications** — click a certificate name to view it
 
-<img src="https://img.shields.io/badge/Associate%20Cloud%20Engineer-Google-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Associate Cloud Engineer, Google" />
-<img src="https://img.shields.io/badge/Professional%20ML%20Engineer-Google-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Professional ML Engineer, Google" />
-<img src="https://img.shields.io/badge/Claude%20API%20%26%20MCP-Anthropic-D97757?style=for-the-badge" alt="Claude API and MCP, Anthropic" />
-<img src="https://img.shields.io/badge/Claude%20on%20Bedrock%20%26%20Vertex%20AI-Anthropic-D97757?style=for-the-badge" alt="Claude on Bedrock and Vertex AI, Anthropic" />
-<img src="https://img.shields.io/badge/Generative%20AI-Microsoft%20%26%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Generative AI, Microsoft and LinkedIn" />
-<img src="https://img.shields.io/badge/Frontend%20Developer%20(React)-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Frontend Developer React, HackerRank" />
-<img src="https://img.shields.io/badge/Agile%20Software%20Development-CGI-6366F1?style=for-the-badge" alt="Agile Software Development, CGI" />
+<div align="left">
+
+| Certificate | Provider | Year |
+|---|---|---|
+| [Associate Cloud Engineer](https://raw.githubusercontent.com/VenkataKameswararaoEmandi/Portfolio/main/public/AssociateCloudEngineer20260415-31-pvlhgv.pdf) | Google Cloud | 2026 |
+| [Professional Machine Learning Engineer](https://raw.githubusercontent.com/VenkataKameswararaoEmandi/Portfolio/main/public/ProfessionalMachineLearningEngineer20260808-21-lc8drn.pdf) | Google Cloud | 2026 |
+| [Claude Code in Action](https://raw.githubusercontent.com/VenkataKameswararaoEmandi/Portfolio/main/public/Claude%20code%20in%20action%20certificate.pdf) | Anthropic Academy | 2024 |
+| [AI Fluency — Framework & Foundations](https://raw.githubusercontent.com/VenkataKameswararaoEmandi/Portfolio/main/public/AI%20Fluency%20-%20Framework%20%26%20Foundations.pdf) | Anthropic Academy | 2024 |
+| [Career Essentials in Generative AI](https://raw.githubusercontent.com/VenkataKameswararaoEmandi/Portfolio/main/public/CertificateOfCompletion_Career%20Essentials%20in%20Generative%20AI%20by%20Microsoft%20and%20LinkedIn.pdf) | Microsoft / LinkedIn | 2024 |
+| [AI For Everyone](https://raw.githubusercontent.com/VenkataKameswararaoEmandi/Portfolio/main/public/AI%20For%20Everyone%20-%20Coursera%20Certificate.pdf) | DeepLearning.AI / Coursera | 2020 |
+| [Frontend Developer (React)](https://www.hackerrank.com/certificates/13269103e821) | HackerRank | 2024 |
+
+</div>
+
+<sub>Certificate files are served directly from the <a href="https://github.com/VenkataKameswararaoEmandi/Portfolio">Portfolio</a> repository's <code>public/</code> folder, matching the source of truth in <code>Certifications.tsx</code>.</sub>
 
 </div>
 
