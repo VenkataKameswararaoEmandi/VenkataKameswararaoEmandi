@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===================== HERO ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Emandi%20Venkata%20Kameswararao&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Senior%20UI%20Engineer%20%7C%20React.js%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20Node.js%20%C2%B7%20GCP&descAlignY=56&descSize=16&animation=fadeIn" alt="Header banner: Emandi Venkata Kameswararao, Senior UI Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Emandi%20Venkata%20Kameswararao&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Senior%20UI%20Engineer%20%7C%20React.js%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20Node.js%20%C2%B7%20GCP&descAlignY=56&descSize=16&animation=fadeIn" alt="Header banner: Emandi Venkata Kameswararao, Frontend Engineer" />
 
 <br/>
 
@@ -31,12 +31,12 @@
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Coding animation" />
 
-Senior-track **UI Developer** with **4+ years** of experience architecting scalable, accessible, high-performance frontends — currently a **Software Engineer – UI Developer at CGI**, Hyderabad, India.
+Frontend Engineer with **4+ years** of experience architecting scalable, accessible, high-performance frontends — currently a **Software Engineer – UI Developer at CGI**, Hyderabad, India.
 
 - ⚛️ Deep expertise in **React.js, TypeScript, Next.js, Node.js** — component architecture, state management, reusable systems
-- 📈 Verified track record: **30%+ UI performance gains**, **35% fewer production defects**, **25% faster feature delivery**
+- 📈 Verified track record: **30%+ UI Performance Improvement**, **35% fewer production defects**, **25% faster feature delivery**
 - ☁️ **Google Certified Associate Cloud Engineer** — GCP, Docker, Kubernetes, Jenkins, OpenShift, CI/CD
-- 🧪 Testing-first engineer — **85%+ test coverage** with Jest and React Testing Library
+- 🧪 Testing-focused engineer — Jest & React Testing Library with strong unit test coverage
 - 🤖 Building with **AI-augmented workflows** — GitHub Copilot, Google Gemini, Anthropic Claude API / MCP
 - 📫 Open to **On-Site (Hyderabad), Hybrid, Remote**, and relocation — available immediately
 
