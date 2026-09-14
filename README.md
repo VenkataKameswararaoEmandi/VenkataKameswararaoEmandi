@@ -2,7 +2,7 @@
 
 <!-- ===================== HERO ===================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Emandi%20Venkata%20Kameswararao&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Senior%20UI%20Engineer%20%7C%20React.js%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20Node.js%20%C2%B7%20GCP&descAlignY=56&descSize=16&animation=fadeIn" alt="Header banner: Emandi Venkata Kameswararao, Frontend Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Emandi%20Venkata%20Kameswararao&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Senior%20Frontend%20Developer%20%7C%20React.js%20%C2%B7%20Next.js%20%C2%B7%20TypeScript%20%C2%B7%20Node.js%20%C2%B7%20GCP&descAlignY=56&descSize=16&animation=fadeIn" alt="Header banner: Emandi Venkata Kameswararao, Senior Frontend Developer" />
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=680&lines=4%2B+Years+Architecting+Scalable+React+Applications;30%25%2B+UI+Performance+Gains+%7C+35%25+Fewer+Defects;Google+Certified+Associate+Cloud+Engineer;AI-Augmented+Development+with+Claude+%26+Copilot" alt="Typing animation summary" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=720&lines=Senior+Frontend+Developer+%7C+4%2B+Years;Building+Scalable+React+%26+TypeScript+Applications;Performance+%7C+Accessibility+%7C+Testing+%7C+Clean+Architecture;30%25%2B+UI+Performance+Improvement;35%25+Fewer+Production+Defects;AI-Augmented+Frontend+Engineering" alt="Typing animation summary" />
 
 </div>
 
@@ -29,65 +29,91 @@
 
 <!-- ===================== ABOUT ===================== -->
 
-## 📍 About Me
+## 👨‍💻 About Me
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Coding animation" />
+Frontend Engineer with **4+ years of professional experience** building scalable, maintainable, accessible, and high-performance web applications using **React.js, TypeScript, Next.js, and modern frontend engineering practices**.
 
-Frontend Engineer with **4+ years** of experience architecting scalable, accessible, high-performance frontends — currently a **Software Engineer – UI Developer at CGI**, Hyderabad, India.
+Currently working as a **Software Engineer – UI Developer at CGI**, with hands-on experience across frontend architecture, reusable component development, state management, API integration, performance optimization, automated testing, accessibility, security, and CI/CD.
 
-* ⚛️ Deep expertise in **React.js, TypeScript, Next.js, Node.js** — component architecture, state management, reusable systems
-* 📈 Verified track record: **30%+ UI Performance Improvement**, **35% fewer production defects**, **25% faster feature delivery**
-* ☁️ **Google Certified Associate Cloud Engineer** — GCP, Docker, Kubernetes, Jenkins, OpenShift, CI/CD
-* 🧪 Testing-focused engineer — Jest & React Testing Library with strong unit test coverage
-* 🤖 Building with **AI-augmented workflows** — GitHub Copilot, Google Gemini, Anthropic Claude API / MCP
-* 📫 Open to **On-Site (Hyderabad), Hybrid, Remote**, and relocation — available immediately
+* ⚛️ **Frontend Architecture:** React.js, TypeScript, Next.js, Redux, reusable components, custom hooks
+* 🏗️ **Scalable UI Development:** Component-driven architecture, reusable design patterns, modular frontend systems
+* 🚀 **Performance Engineering:** Code splitting, lazy loading, memoization, rendering optimization and bundle optimization
+* ♿ **Accessibility:** WCAG 2.1 compliant, keyboard navigation, semantic HTML and accessible UI patterns
+* 🧪 **Quality Engineering:** Jest, React Testing Library, Cypress, unit testing and regression prevention
+* 🔐 **Frontend Security:** XSS/CSRF mitigation, JWT authentication, CSP and secure API integration
+* ☁️ **Cloud & DevOps:** GCP, Docker, Kubernetes, Jenkins, OpenShift and CI/CD
+* 🤖 **AI-Augmented Development:** GitHub Copilot, Google Gemini, Claude API and MCP
+* 📈 **Engineering Impact:** 30%+ UI performance improvement, 35% fewer production defects and 25% faster feature delivery
+* 📫 Open to **Senior Frontend Developer / Senior UI Engineer** opportunities
 
-<br clear="right"/>
+<br/>
 
 ---
 
-<!-- ===================== WHAT I BUILD ===================== -->
+<!-- ===================== CORE EXPERTISE ===================== -->
 
-## 🏗️ What I Build
+## 🧩 Core Expertise
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**Frontend Engineering**
-React, Next.js, TypeScript — reusable components, state management, scalable architecture
+### 🏗️ Frontend Architecture
+
+* Scalable React application architecture
+* Component-driven development
+* Reusable UI components
+* Custom React Hooks
+* State management
+* API integration
+* Modular and maintainable codebases
 
 </td>
-<td width="33%" valign="top">
 
-**UI Engineering**
-Responsive, accessible interfaces built to WCAG 2.1 standards with reusable UI systems
+<td width="50%" valign="top">
 
-</td>
-<td width="33%" valign="top">
+### 🚀 Performance Engineering
 
-**Performance**
-Code splitting, lazy loading, memoization, bundle & rendering optimization
+* Code splitting
+* Lazy loading
+* React rendering optimization
+* Memoization
+* Bundle optimization
+* Asset optimization
+* Page-load optimization
+* Core Web Vitals awareness
 
 </td>
 </tr>
+
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**Quality**
-Jest, React Testing Library, CI/CD gates — production-grade test discipline
+### 🧪 Quality & Testing
+
+* Jest
+* React Testing Library
+* Cypress
+* Unit testing
+* Integration testing
+* Test-driven development practices
+* Regression prevention
+* CI/CD quality gates
 
 </td>
-<td width="33%" valign="top">
 
-**Cloud & DevOps**
-GCP, Docker, Kubernetes, Jenkins, OpenShift
+<td width="50%" valign="top">
 
-</td>
-<td width="33%" valign="top">
+### ♿ Accessibility & Security
 
-**AI Engineering**
-Copilot- and Gemini-assisted development, Claude API & MCP
+* WCAG 2.1
+* Semantic HTML
+* Keyboard accessibility
+* Responsive UI
+* XSS / CSRF protection
+* JWT authentication
+* Content Security Policy
+* Secure API integration
 
 </td>
 </tr>
@@ -97,34 +123,99 @@ Copilot- and Gemini-assisted development, Claude API & MCP
 
 <!-- ===================== TECH STACK ===================== -->
 
-## 🧠 Tech Stack
+## 🧠 Technology Stack
 
 <div align="center">
 
-**Frontend** <br/> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" alt="Frontend tech icons" />
+### Frontend
 
-**Backend & APIs** <br/> <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,graphql,mysql" alt="Backend and API tech icons" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" alt="Frontend technology icons" />
 
-**Cloud, DevOps & Tools** <br/> <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,jenkins,git,github,vscode,postman,linux" alt="Cloud, DevOps and tooling icons" />
+<br/><br/>
 
-**Testing & Monitoring** <br/> <img src="https://skillicons.dev/icons?i=jest,cypress,grafana" alt="Testing and monitoring icons" />
+### Backend & API
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,graphql,mysql" alt="Backend and API technology icons" />
+
+<br/><br/>
+
+### Cloud, DevOps & Engineering
+
+<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,jenkins,git,github,vscode,postman,linux" alt="Cloud DevOps and engineering technology icons" />
+
+<br/><br/>
+
+### Testing & Monitoring
+
+<img src="https://skillicons.dev/icons?i=jest,cypress,grafana" alt="Testing and monitoring technology icons" />
 
 </div>
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== ENGINEERING IMPACT ===================== -->
+
+## 📈 Engineering Impact
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### 🚀 30%+
+
+<br/>
+**UI Performance Improvement**
+
+</td>
+
+<td align="center">
+
+### 🐛 35%
+
+<br/>
+**Fewer Production Defects**
+
+</td>
+
+<td align="center">
+
+### ⚡ 25%
+
+<br/>
+**Faster Feature Delivery**
+
+</td>
+
+<td align="center">
+
+### 🧪 85%+
+
+<br/>
+**Test Coverage**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ===================== GITHUB ANALYTICS ===================== -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VenkataKameswararaoEmandi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataKameswararaoEmandi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VenkataKameswararaoEmandi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenkataKameswararaoEmandi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top programming languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VenkataKameswararaoEmandi&theme=tokyonight&hide_border=true&background=0d1117" alt="Contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VenkataKameswararaoEmandi&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub contribution streak" />
 
 </div>
 
@@ -136,7 +227,7 @@ Copilot- and Gemini-assisted development, Claude API & MCP
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VenkataKameswararaoEmandi&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VenkataKameswararaoEmandi&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" alt="GitHub contribution activity graph" />
 
 <!-- Contribution snake graph — requires the platane/snk GitHub Action configured in this profile
      repo to generate the output SVG. Once set up, re-enable:
@@ -146,46 +237,65 @@ Copilot- and Gemini-assisted development, Claude API & MCP
 
 ---
 
-<!-- ===================== EXPERIENCE ===================== -->
+<!-- ===================== PROFESSIONAL EXPERIENCE ===================== -->
 
-## 💼 Experience
+## 💼 Professional Experience
 
 <table width="100%">
+
 <tr>
 <td width="100%">
 
-**Software Engineer – UI Developer** · CGI · *Oct 2024 – Present* · Hyderabad, India
+### Software Engineer – UI Developer · CGI
 
-* Architected a scalable React.js frontend with code splitting & lazy loading — **20% faster page loads**, **30%+ UI performance gain**
-* Built a library of **12+ custom React Hooks** (`useDebounce`, `useFetch`, `useFormValidation`), cutting code duplication by **30%**
-* Drove **85%+ test coverage** (Jest, RTL), preventing **10+ critical production incidents**
-* Engineered **Jenkins + OpenShift CI/CD** pipelines with **99.9% uptime** and zero-downtime deployments
-* Enforced **WCAG 2.1 accessibility** and closed out security vulnerabilities (XSS/CSRF, JWT, CSP)
-* Cut debugging time by **40%** by integrating GitHub Copilot & Google Gemini into daily workflow
+**Oct 2024 – Present · Hyderabad, India**
+
+* Architected and enhanced **scalable React.js applications** using reusable components, custom hooks and modular frontend patterns.
+* Improved application performance through **code splitting, lazy loading, memoization and rendering optimization**, achieving **20% faster page loads** and **30%+ overall UI performance improvement**.
+* Designed and maintained **12+ reusable React Hooks**, including `useDebounce`, `useFetch` and `useFormValidation`, reducing code duplication by **30%**.
+* Established frontend testing practices using **Jest and React Testing Library**, maintaining **85%+ test coverage** and helping prevent **10+ critical production incidents**.
+* Implemented and maintained **WCAG 2.1 accessibility** standards across application interfaces.
+* Addressed frontend security vulnerabilities including **XSS, CSRF, JWT security and Content Security Policy (CSP)**.
+* Developed and maintained **Jenkins and OpenShift CI/CD pipelines**, supporting reliable and zero-downtime application deployments.
+* Collaborated with backend, QA, DevOps and product teams to deliver features across the complete software development lifecycle.
+* Leveraged **GitHub Copilot and Google Gemini** to improve debugging and development productivity, reducing debugging time by approximately **40%**.
 
 </td>
 </tr>
+
 <tr>
 <td width="100%">
 
-**Associate Software Engineer – UI Developer** · CGI · *Jun 2022 – Sep 2024* · Hyderabad, India
+### Associate Software Engineer – UI Developer · CGI
 
-* Shipped **15+ production UI components**, contributing to a **30% performance improvement** across 3 modules
-* Reduced **production defects by 35%** through systematic Jest/RTL testing
-* Managed bi-weekly **Jenkins/OpenShift** releases on a consistent 2-week Agile cadence
+**Jun 2022 – Sep 2024 · Hyderabad, India**
+
+* Developed and maintained production-grade **React.js applications** using reusable and maintainable UI components.
+* Delivered **15+ reusable production UI components** across multiple application modules.
+* Contributed to a **30% performance improvement** across 3 application modules through frontend optimization.
+* Reduced production defects by **35%** through systematic **Jest and React Testing Library** testing.
+* Integrated frontend applications with REST APIs and handled loading, error and validation states.
+* Participated in Agile ceremonies including sprint planning, daily stand-ups, backlog refinement and retrospectives.
+* Managed bi-weekly **Jenkins/OpenShift releases** while maintaining a consistent Agile delivery cycle.
 
 </td>
 </tr>
+
 <tr>
 <td width="100%">
 
-**Project Engineer Intern** · Wipro · *Mar 2022 – May 2022*
+### Project Engineer Intern · Wipro
 
-* Solo-built a **full-stack e-commerce platform**: React.js, Flask/Python, MySQL, JWT auth & RBAC
-* Delivered **12+ REST API endpoints** with validation and error handling
+**Mar 2022 – May 2022**
+
+* Independently developed a **full-stack e-commerce application** using React.js, Flask/Python and MySQL.
+* Implemented JWT-based authentication and **role-based access control (RBAC)**.
+* Developed **12+ REST API endpoints** with request validation, error handling and database integration.
+* Built responsive frontend interfaces using reusable React components and CSS Grid.
 
 </td>
 </tr>
+
 </table>
 
 ---
@@ -198,24 +308,32 @@ Copilot- and Gemini-assisted development, Claude API & MCP
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ### 🛋️ Furnica — E-Commerce Platform
 
-Full-stack furniture e-commerce platform built with React.js, Flask/Python, MySQL, JWT authentication, and role-based access control.
+A full-stack **furniture e-commerce platform** featuring a responsive React.js frontend, Flask/Python backend, MySQL database, JWT authentication and role-based access control.
 
-**Tech:** React · Flask · MySQL · JWT · CSS Grid
+Built with a focus on **reusable UI components, responsive design, API integration, authentication and maintainable application architecture**.
+
+**Tech:** React · Flask · Python · MySQL · JWT · CSS Grid
 
 <p>
-<a href="https://github.com/VenkataKameswararaoEmandi/Furnica"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Furnica GitHub repository" /></a>
+<a href="https://github.com/VenkataKameswararaoEmandi/Furnica">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Furnica GitHub repository" />
+</a>
 </p>
 
 </td>
+
 <td width="33%" valign="top">
 
 ### ⚡ Reusable Hooks Library
 
-Collection of 12+ custom React Hooks (`useDebounce`, `useFetch`, `useFormValidation`) reducing code duplication across teams.
+A collection of **12+ reusable React Hooks** designed to simplify common frontend functionality and reduce repeated application logic.
+
+Includes hooks such as `useDebounce`, `useFetch` and `useFormValidation`, with Jest-based testing.
 
 **Tech:** React · TypeScript · Jest
 
@@ -224,24 +342,88 @@ Collection of 12+ custom React Hooks (`useDebounce`, `useFetch`, `useFormValidat
 </p>
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 💼 Personal Portfolio
 
-Responsive personal portfolio showcasing projects, experience, and skills — deployed on Netlify.
+Responsive personal portfolio showcasing professional experience, technical expertise, projects, certifications and engineering achievements.
+
+Built with a modern frontend stack and deployed on Netlify.
 
 **Tech:** React · Next.js · Tailwind CSS
 
 <p>
-<a href="https://github.com/VenkataKameswararaoEmandi/my-resume"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub repository" /></a>
-<a href="https://venkatakameswararaoemandi-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+<a href="https://github.com/VenkataKameswararaoEmandi/my-resume">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub repository" />
+</a>
+<a href="https://venkatakameswararaoemandi-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" />
+</a>
 </p>
 
 </td>
+
 </tr>
 </table>
 
 <sub>📌 Add the real repository URL for the Reusable Hooks Library when available.</sub>
+
+</div>
+
+---
+
+<!-- ===================== FRONTEND ENGINEERING PRINCIPLES ===================== -->
+
+## 🎯 Frontend Engineering Principles
+
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td width="25%" align="center">
+
+### 🧩
+
+**Reusable**
+
+Build components and utilities that can be shared across applications.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🏗️
+
+**Scalable**
+
+Design frontend architecture that remains maintainable as products grow.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🚀
+
+**Performant**
+
+Optimize rendering, loading, bundles and network usage.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🧪
+
+**Reliable**
+
+Use automated testing and engineering standards to deliver production-quality software.
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -263,15 +445,15 @@ Responsive personal portfolio showcasing projects, experience, and skills — de
 
 ---
 
-<!-- ===================== ACHIEVEMENTS & CERTIFICATIONS ===================== -->
+<!-- ===================== CERTIFICATIONS ===================== -->
 
-## 🏆 Achievements & Certifications
+## 🏆 Certifications & Achievements
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=VenkataKameswararaoEmandi&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/30%25%2B-UI%20Performance%20Gain-6366F1?style=for-the-badge" alt="30%+ UI performance gain" />
 <img src="https://img.shields.io/badge/35%25-Fewer%20Defects-0EA5E9?style=for-the-badge" alt="35% fewer defects" />
@@ -321,7 +503,9 @@ Hindustan Institute of Technology & Science, Chennai · 2022 · **CGPA: 9.3/10.0
 
 <div align="center">
 
-Let's build something meaningful — open to discussing new projects, opportunities, or collaborations.
+I'm open to opportunities where I can contribute to **frontend architecture, scalable React applications, performance engineering and modern UI development**.
+
+<br/>
 
 <a href="https://github.com/VenkataKameswararaoEmandi">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
